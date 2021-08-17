@@ -1,0 +1,1 @@
+## This is another example of third party service. Here you can have all the implementation for your user authentication stuff. like 'token.go', 'jwt.go'.
